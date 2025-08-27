@@ -6,4 +6,4 @@
 💭 Looking into further physics simulation mainly cloth and fluid simulation<br/>
 📖 Find out more about my projects and me [here](https://frumpyyy.github.io/index.html#about)!<br/>
 
-![Nathan's GitHub stats](https://github-readme-stats-pink-five-42.vercel.app/api?username=frumpyyy&show_icons=true)
+![Nathan's GitHub stats](https://github-readme-stats-pink-five-42.vercel.app/api?username=frumpyyy&show_icons=true&hide_rank=true)
